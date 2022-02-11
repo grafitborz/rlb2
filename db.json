@@ -1,5 +1,5 @@
 {
-"templates": [
+"defaultTemplates": [
       {
            "id":1,
             "invoiceItemName": "Tanácsadás",
