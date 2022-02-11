@@ -1,23 +1,13 @@
 {
 "templates": [
       {
-            "id":1,
+           "id":1,
             "invoiceItemName": "Tanácsadás",
             "invoiceNote": "Sed venenatis malesuada sem eu posuere. Nullam venenatis magna nibh, sed tincidunt nunc rhoncus vel. Suspendisse ultricies nibh at diam feugiat finibus. Proin auctor non quam et laoreet. Etiam porttitor blandit neque et pulvinar. Donec vitae tristique sapien. Proin rutrum, ex ac mattis vulputate, lectus odio finibus magna, eu feugiat libero justo sed felis. Cras ut facilisis lectus. Nulla enim arcu, lacinia vitae fermentum eu, porttitor id eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla in turpis mattis, pretium nulla accumsan, luctus urna. Etiam maximus nisl ultrices quam posuere dapibus. Suspendisse a ligula risus. Aenean porta velit elit, sed lobortis tortor placerat vitae. ",
             "VAT": "27",
             "quantity": 3,
             "quantityType": "darab",
-            "grossPrice": "979 000",
-            "edit": false
-        },
-        {
-            "id":2,
-            "invoiceItemName": "Tanácsadás",
-            "invoiceNote": "Sed venenatis malesuada sem eu posuere. Nullam venenatis magna nibh, sed tincidunt nunc rhoncus vel. Suspendisse ultricies nibh at diam feugiat finibus. Proin auctor non quam et laoreet. Etiam porttitor blandit neque et pulvinar. Donec vitae tristique sapien. Proin rutrum, ex ac mattis vulputate, lectus odio finibus magna, eu feugiat libero justo sed felis. Cras ut facilisis lectus. Nulla enim arcu, lacinia vitae fermentum eu, porttitor id eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla in turpis mattis, pretium nulla accumsan, luctus urna. Etiam maximus nisl ultrices quam posuere dapibus. Suspendisse a ligula risus. Aenean porta velit elit, sed lobortis tortor placerat vitae. ",
-            "VAT": "27",
-            "quantity": 3,
-            "quantityType": "darab",
-            "grossPrice": "979 000",
+            "grossPrice": "979000",
             "edit": false
         }
     ]
